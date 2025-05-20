@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Bahobeshi
 
-<!--
-**Ahmedeshi/Ahmedeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a future-focused **front-end developer** currently studying full-stack web development. With a background in business strategy and logistics, I bring real-world problem-solving and efficiency-driven thinking to tech.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
+- Front-end technologies: **JavaScript**, **React**, **TypeScript**
+- Modern frameworks: **Next.js**
+- Back-end basics & APIs
+- Database management and scalable application design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Strengths
+- Problem-solving & analytical thinking
+- Fast learner with adaptability in new tech environments
+- Strong teamwork & communication
+- Business mindset from a **Bachelor in Business Management**
+
+## 🌍 Languages
+- **English:** Fluent  
+- **Arabic:** Fluent  
+- **Swedish:** Good  
+
+## 🔧 Tools & Technologies
+- JavaScript / TypeScript  
+- React / Next.js  
+- Git & GitHub  
+- REST APIs  
+- Agile methodologies
+
+---
+
+📫 Reach me at **ahmed.bahobeshi@hotmail.com**  
+📍 Based in Sweden  
